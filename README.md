@@ -1,5 +1,3 @@
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>&style=<STYLE>&logo=<LOGO>
-
 # Descrição
 Projeto criado com HTML, CSS e JS no curso de desenvolvimento web full stack do Programador BR
 
